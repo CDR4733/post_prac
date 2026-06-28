@@ -1,0 +1,6 @@
+{
+  "ignorePatterns": [
+    "**/.venv/**",
+    "**/__pycache__/**"
+  ]
+}
